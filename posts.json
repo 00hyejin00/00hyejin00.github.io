@@ -1,2 +1,29 @@
-[]
-
+[
+  {
+    "file": "cursor-ai-guide.md",
+    "title": "Cursor AI를 활용한 효율적인 개발 가이드",
+    "date": "2025-01-28",
+    "tags": [
+      "Cursor",
+      "AI",
+      "개발 도구",
+      "생산성"
+    ],
+    "category": "Development",
+    "description": "Cursor AI를 활용하여 개발 생산성을 극대화하는 실전 팁과 활용 방법을 소개합니다.",
+    "excerpt": "Cursor는 AI 기반 코드 에디터로, 개발자의 생산성을 크게 향상시킬 수 있는 강력한 도구입니다. 이 글에서는 Cursor AI를 효과적으로 활용하는 방법을 실전 예제와 함께 소개합니다. Cursor는 ChatGPT의 GPT 모델을 통합한 VS Code 기반의 AI 코드 에디터입니다. 코드 작성, 리팩토링, 디버깅, 문서화 등 다양한 개발 작업을 AI의..."
+  },
+  {
+    "file": "example.md",
+    "title": "첫 번째 게시글: 블로그를 시작하며",
+    "date": "2025-01-26",
+    "tags": [
+      "블로그",
+      "GitHub Pages",
+      "마크다운"
+    ],
+    "category": "General",
+    "description": "GitHub Pages로 만든 정적 블로그의 첫 번째 게시글입니다.",
+    "excerpt": "안녕하세요! 이 블로그는 로 만들어진 정적 블로그입니다. 이 블로그는 다음과 같은 기능을 제공합니다: - 마크다운 기반 게시글 작성 - 다크/라이트 모드 전환 - 태그 기반 필터링 - 클라이언트 사이드 검색 - Giscus 댓글 시스템 코드 블록은 Prism.js를 사용하여 구문 강조가 적용됩니다: Python 코드도 지원됩니다: > 블로그는 생각을 정리하..."
+  }
+]
